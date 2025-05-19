@@ -1,0 +1,340 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 
+   Mon 05/19/2025  7:38:29.61 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\thumbnail.png 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\CharacterCreation\CharacterCreationAppearanceVisuals.tbl 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291: 1 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\GUI\metadata.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291: 4 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\CharacterCreation\CharacterCreationAppearanceVisuals.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Content\[PAK]_SeaDrA_Rathgor\15c8618d-8810-48e2-9471-d40f34ac751f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\Jaw\DGB_EL_MRath_Jaw_Pearl_CoralRFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\Jaw\DGB_EL_MRath_Jaw_Pearl_CoralRFrills.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291: 4 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\Jaw\DGB_EL_MRath_Jaw_Pearl_CoralRFrills.GR2 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291: 1 
+ 
+[LOG] Total files found across all folders: 12 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Projects\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 to Projects\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 
+[DEBUG] Using destination: Projects\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:38:33 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
+     Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Projects\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     692	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\meta.lsx100%  
+	    New File  		  984437	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\thumbnail.png 26%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :   962.0 k   962.0 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           985129000 Bytes/sec.
+   Speed :           56369.533 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:38:33 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Editor\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 to "Editor\Mods"\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 
+[DEBUG] Using destination: Editor\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:38:34 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
+     Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Editor\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   44131	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\CharacterCreation\CharacterCreationAppearanceVisuals.tbl  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         2         2         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    43.0 k    43.0 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            44131000 Bytes/sec.
+   Speed :            2525.196 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:38:34 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 to Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 
+[DEBUG] Using destination: Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:38:36 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
+     Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    7845	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\meta.lsx100%  
+	    New File  		  984437	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\mod_publish_logo.png  0%  100%  
+	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\GUI\metadata.lsf100%  
+	    New File  		    3837	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         4         4         0         0         0         0
+   Bytes :   973.8 k   973.8 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           249315000 Bytes/sec.
+   Speed :           14265.918 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:38:36 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 4 
+[DEBUG] Successfully copied files: 4 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291: 
+      Total files: 4 
+      Copied successfully: 4 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 to Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 
+[DEBUG] Using destination: Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:38:38 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
+     Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   32967	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
+	    New File  		    2833	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Content\[PAK]_SeaDrA_Rathgor\15c8618d-8810-48e2-9471-d40f34ac751f.lsf100%  
+	    New File  		  150000	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\Jaw\DGB_EL_MRath_Jaw_Pearl_CoralRFrills.GR2100%  
+	    New File  		     224	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\Jaw\DGB_EL_MRath_Jaw_Pearl_CoralRFrills.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        11        11         1         0         0         0
+   Files :         4         4         0         0         0         0
+   Bytes :   181.6 k   181.6 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            93012000 Bytes/sec.
+   Speed :            5322.189 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:38:38 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 4 
+[DEBUG] Successfully copied files: 4 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291: 
+      Total files: 4 
+      Copied successfully: 4 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Generated\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 to "Generated\Public"\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 
+[DEBUG] Using destination: Generated\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:38:39 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
+     Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Generated\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		  150000	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\Jaw\DGB_EL_MRath_Jaw_Pearl_CoralRFrills.GR2100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         8         8         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :   146.4 k   146.4 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           150000000 Bytes/sec.
+   Speed :            8583.068 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:38:39 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 4 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 4 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 12 
+[SUMMARY] Total files successfully copied: 24 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 

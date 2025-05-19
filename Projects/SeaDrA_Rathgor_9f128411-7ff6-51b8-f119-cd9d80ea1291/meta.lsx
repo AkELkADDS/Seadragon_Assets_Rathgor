@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="9f128411-7ff6-51b8-f119-cd9d80ea1291"/>
+            <attribute id="Name" type="LSString" value="SeaDrA_Rathgor"/>
+            <attribute id="UUID" type="LSString" value="382007e2-f787-c337-52b0-8f4705461e7c"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>
