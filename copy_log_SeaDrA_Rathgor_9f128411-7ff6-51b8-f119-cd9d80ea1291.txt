@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 
-   Mon 05/19/2025  7:38:29.61 
+   Sat 04/04/2026  2:40:58.25 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -37,18 +37,35 @@ Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDr
  
 Files found: 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\CharacterCreation\CharacterCreationAppearanceVisuals.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Content\[PAK]_SeaDrA_Krothar\0c183a24-9012-4539-848f-5d784f69de96.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Content\[PAK]_SeaDrA_Krothar\3751fcca-f207-4351-a909-810cb5352206.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Content\[PAK]_SeaDrA_Krothar\48d85290-79a6-42c6-870d-8dab874d8d77.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Content\[PAK]_SeaDrA_Krothar\4e6884ea-d9b2-4ec0-a1c0-a815e4d8a7fb.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Content\[PAK]_SeaDrA_Krothar\7364c60d-6432-4ad2-bedf-5b65cd909e3b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Content\[PAK]_SeaDrA_Krothar\87c68fe5-5467-4b11-aa83-9a94f022cf35.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Content\[PAK]_SeaDrA_Krothar\8cc66b61-490e-4f2e-8223-878aaa3ea166.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Content\[PAK]_SeaDrA_Krothar\9735de56-72d6-4663-b4b9-79174f815959.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Content\[PAK]_SeaDrA_Krothar\a571b291-ad7d-48d7-9e69-df24ad08bb49.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Content\[PAK]_SeaDrA_Krothar\c900c932-f5ec-444a-8e63-1549cde1240e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Content\[PAK]_SeaDrA_Krothar\d64271a4-78ee-428c-9d72-c4f80403279e.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Content\[PAK]_SeaDrA_Rathgor\15c8618d-8810-48e2-9471-d40f34ac751f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_AntlersFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_AntlersFrills.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_CoralRFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_CoralRFrills.xml 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\Jaw\DGB_EL_MRath_Jaw_Pearl_CoralRFrills.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\Jaw\DGB_EL_MRath_Jaw_Pearl_CoralRFrills.xml 
-Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291: 4 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291: 19 
  
 [LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 
  
 Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_AntlersFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_CoralRFrills.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\Jaw\DGB_EL_MRath_Jaw_Pearl_CoralRFrills.GR2 
-Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291: 1 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291: 3 
  
-[LOG] Total files found across all folders: 12 
+[LOG] Total files found across all folders: 29 
  
 SECTION 2: COPY OPERATIONS 
 ------------------------------------------------------------------------ 
@@ -64,7 +81,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 7:38:33 AM
+  Started : Saturday, April 4, 2026 2:41:01 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
      Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Projects\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
 
@@ -75,7 +92,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     692	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\meta.lsx100%  
-	    New File  		  984437	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\thumbnail.png 26%  100%  
+	    New File  		  984437	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\thumbnail.png100%  
 
 ------------------------------------------------------------------------------
 
@@ -88,7 +105,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           985129000 Bytes/sec.
    Speed :           56369.533 MegaBytes/min.
-   Ended : Monday, May 19, 2025 7:38:33 AM
+   Ended : Saturday, April 4, 2026 2:41:01 AM
 
  
 [DEBUG] Counting source files 
@@ -114,7 +131,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 7:38:34 AM
+  Started : Saturday, April 4, 2026 2:41:03 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
      Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Editor\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
 
@@ -124,20 +141,16 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		   44131	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\CharacterCreation\CharacterCreationAppearanceVisuals.tbl  0%  100%  
+	    New File  		   44131	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\CharacterCreation\CharacterCreationAppearanceVisuals.tbl100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
-    Dirs :         2         2         1         0         0         0
+    Dirs :         5         5         1         0         0         0
    Files :         1         1         0         0         0         0
    Bytes :    43.0 k    43.0 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-
-
-   Speed :            44131000 Bytes/sec.
-   Speed :            2525.196 MegaBytes/min.
-   Ended : Monday, May 19, 2025 7:38:34 AM
+   Ended : Saturday, April 4, 2026 2:41:03 AM
 
  
 [DEBUG] Counting source files 
@@ -163,7 +176,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 7:38:36 AM
+  Started : Saturday, April 4, 2026 2:41:04 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
      Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
 
@@ -187,9 +200,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           249315000 Bytes/sec.
-   Speed :           14265.918 MegaBytes/min.
-   Ended : Monday, May 19, 2025 7:38:36 AM
+   Speed :           498630000 Bytes/sec.
+   Speed :           28531.837 MegaBytes/min.
+   Ended : Saturday, April 4, 2026 2:41:04 AM
 
  
 [DEBUG] Counting source files 
@@ -215,7 +228,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 7:38:38 AM
+  Started : Saturday, April 4, 2026 2:41:06 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
      Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
 
@@ -226,30 +239,45 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		   32967	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
+	    New File  		    3052	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Content\[PAK]_SeaDrA_Krothar\0c183a24-9012-4539-848f-5d784f69de96.lsf100%  
+	    New File  		    3056	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Content\[PAK]_SeaDrA_Krothar\3751fcca-f207-4351-a909-810cb5352206.lsf100%  
+	    New File  		    3053	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Content\[PAK]_SeaDrA_Krothar\48d85290-79a6-42c6-870d-8dab874d8d77.lsf100%  
+	    New File  		    3051	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Content\[PAK]_SeaDrA_Krothar\4e6884ea-d9b2-4ec0-a1c0-a815e4d8a7fb.lsf100%  
+	    New File  		    3051	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Content\[PAK]_SeaDrA_Krothar\7364c60d-6432-4ad2-bedf-5b65cd909e3b.lsf100%  
+	    New File  		    3057	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Content\[PAK]_SeaDrA_Krothar\87c68fe5-5467-4b11-aa83-9a94f022cf35.lsf100%  
+	    New File  		    2803	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Content\[PAK]_SeaDrA_Krothar\8cc66b61-490e-4f2e-8223-878aaa3ea166.lsf100%  
+	    New File  		    3052	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Content\[PAK]_SeaDrA_Krothar\9735de56-72d6-4663-b4b9-79174f815959.lsf100%  
+	    New File  		    3051	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Content\[PAK]_SeaDrA_Krothar\a571b291-ad7d-48d7-9e69-df24ad08bb49.lsf100%  
+	    New File  		    3051	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Content\[PAK]_SeaDrA_Krothar\c900c932-f5ec-444a-8e63-1549cde1240e.lsf100%  
+	    New File  		    3057	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Content\[PAK]_SeaDrA_Krothar\d64271a4-78ee-428c-9d72-c4f80403279e.lsf100%  
 	    New File  		    2833	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Content\[PAK]_SeaDrA_Rathgor\15c8618d-8810-48e2-9471-d40f34ac751f.lsf100%  
+	    New File  		   2.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_AntlersFrills.GR2100%  
+	    New File  		     209	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_AntlersFrills.xml100%  
+	    New File  		  144716	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_CoralRFrills.GR2100%  
+	    New File  		     205	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_CoralRFrills.xml100%  
 	    New File  		  150000	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\Jaw\DGB_EL_MRath_Jaw_Pearl_CoralRFrills.GR2100%  
 	    New File  		     224	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\Jaw\DGB_EL_MRath_Jaw_Pearl_CoralRFrills.xml100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
-    Dirs :        11        11         1         0         0         0
-   Files :         4         4         0         0         0         0
-   Bytes :   181.6 k   181.6 k         0         0         0         0
+    Dirs :        17        17         1         0         0         0
+   Files :        19        19         0         0         0         0
+   Bytes :    2.42 m    2.42 m         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :            93012000 Bytes/sec.
-   Speed :            5322.189 MegaBytes/min.
-   Ended : Monday, May 19, 2025 7:38:38 AM
+   Speed :           282064888 Bytes/sec.
+   Speed :           16139.882 MegaBytes/min.
+   Ended : Saturday, April 4, 2026 2:41:06 AM
 
  
 [DEBUG] Counting source files 
-[DEBUG] Total files counted: 4 
-[DEBUG] Successfully copied files: 4 
+[DEBUG] Total files counted: 19 
+[DEBUG] Successfully copied files: 19 
 [LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291: 
-      Total files: 4 
-      Copied successfully: 4 
+      Total files: 19 
+      Copied successfully: 19 
       Skipped: 0 
       Mismatched: 0 
       Failed: 0 
@@ -267,7 +295,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 7:38:39 AM
+  Started : Saturday, April 4, 2026 2:41:08 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
      Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Generated\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
 
@@ -277,28 +305,30 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
+	    New File  		   2.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_AntlersFrills.GR2100%  
+	    New File  		  144716	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_CoralRFrills.GR2100%  
 	    New File  		  150000	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\Jaw\DGB_EL_MRath_Jaw_Pearl_CoralRFrills.GR2100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
-    Dirs :         8         8         1         0         0         0
-   Files :         1         1         0         0         0         0
-   Bytes :   146.4 k   146.4 k         0         0         0         0
+    Dirs :        13        13         1         0         0         0
+   Files :         3         3         0         0         0         0
+   Bytes :    2.35 m    2.35 m         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           150000000 Bytes/sec.
-   Speed :            8583.068 MegaBytes/min.
-   Ended : Monday, May 19, 2025 7:38:39 AM
+   Speed :           1234406000 Bytes/sec.
+   Speed :            70633.277 MegaBytes/min.
+   Ended : Saturday, April 4, 2026 2:41:08 AM
 
  
 [DEBUG] Counting source files 
-[DEBUG] Total files counted: 1 
-[DEBUG] Successfully copied files: 1 
+[DEBUG] Total files counted: 3 
+[DEBUG] Successfully copied files: 3 
 [LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291: 
-      Total files: 1 
-      Copied successfully: 1 
+      Total files: 3 
+      Copied successfully: 3 
       Skipped: 0 
       Mismatched: 0 
       Failed: 0 
@@ -323,17 +353,17 @@ SECTION 3: FALLBACK COPY ATTEMPTS
 [LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 
 [LOG] Xcopy completed with code: 0 
 [LOG] Xcopy fallback successful 
-[LOG] Files copied by xcopy: 4 
+[LOG] Files copied by xcopy: 19 
 [LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 
 [LOG] Xcopy completed with code: 0 
 [LOG] Xcopy fallback successful 
-[LOG] Files copied by xcopy: 1 
+[LOG] Files copied by xcopy: 3 
 SECTION 4: FINAL SUMMARY 
 ------------------------------------------------------------------------ 
  
 [SUMMARY] Total mod folders found: 1 
-[SUMMARY] Total files found: 12 
-[SUMMARY] Total files successfully copied: 24 
+[SUMMARY] Total files found: 29 
+[SUMMARY] Total files successfully copied: 58 
  
 [SUMMARY] All files were copied successfully 
  
