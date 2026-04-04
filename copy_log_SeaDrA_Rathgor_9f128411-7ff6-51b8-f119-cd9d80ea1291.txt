@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 
-   Sat 04/04/2026  2:40:58.25 
+   Sat 04/04/2026  4:39:14.86 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -81,7 +81,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, April 4, 2026 2:41:01 AM
+  Started : Saturday, April 4, 2026 4:39:18 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
      Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Projects\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
 
@@ -105,7 +105,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           985129000 Bytes/sec.
    Speed :           56369.533 MegaBytes/min.
-   Ended : Saturday, April 4, 2026 2:41:01 AM
+   Ended : Saturday, April 4, 2026 4:39:18 AM
 
  
 [DEBUG] Counting source files 
@@ -131,7 +131,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, April 4, 2026 2:41:03 AM
+  Started : Saturday, April 4, 2026 4:39:20 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
      Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Editor\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
 
@@ -141,16 +141,16 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		   44131	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\CharacterCreation\CharacterCreationAppearanceVisuals.tbl100%  
+	    New File  		   92092	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\CharacterCreation\CharacterCreationAppearanceVisuals.tbl100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
-    Dirs :         5         5         1         0         0         0
+    Dirs :         6         6         1         0         0         0
    Files :         1         1         0         0         0         0
-   Bytes :    43.0 k    43.0 k         0         0         0         0
+   Bytes :    89.9 k    89.9 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Saturday, April 4, 2026 2:41:03 AM
+   Ended : Saturday, April 4, 2026 4:39:20 AM
 
  
 [DEBUG] Counting source files 
@@ -176,7 +176,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, April 4, 2026 2:41:04 AM
+  Started : Saturday, April 4, 2026 4:39:22 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
      Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
 
@@ -186,23 +186,23 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		    7845	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\meta.lsx100%  
-	    New File  		  984437	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\mod_publish_logo.png  0%  100%  
+	    New File  		    7846	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\meta.lsx100%  
+	    New File  		  984437	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\mod_publish_logo.png 53%  100%  
 	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\GUI\metadata.lsf100%  
-	    New File  		    3837	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Localization\English\english.xml100%  
+	    New File  		    7425	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Localization\English\english.xml100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
     Dirs :         4         4         1         0         0         0
    Files :         4         4         0         0         0         0
-   Bytes :   973.8 k   973.8 k         0         0         0         0
+   Bytes :   977.3 k   977.3 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           498630000 Bytes/sec.
-   Speed :           28531.837 MegaBytes/min.
-   Ended : Saturday, April 4, 2026 2:41:04 AM
+   Speed :           1000849000 Bytes/sec.
+   Speed :            57269.039 MegaBytes/min.
+   Ended : Saturday, April 4, 2026 4:39:22 AM
 
  
 [DEBUG] Counting source files 
@@ -228,7 +228,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, April 4, 2026 2:41:06 AM
+  Started : Saturday, April 4, 2026 4:39:24 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
      Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
 
@@ -238,7 +238,7 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		   32967	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
+	    New File  		   65669	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
 	    New File  		    3052	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Content\[PAK]_SeaDrA_Krothar\0c183a24-9012-4539-848f-5d784f69de96.lsf100%  
 	    New File  		    3056	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Content\[PAK]_SeaDrA_Krothar\3751fcca-f207-4351-a909-810cb5352206.lsf100%  
 	    New File  		    3053	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Content\[PAK]_SeaDrA_Krothar\48d85290-79a6-42c6-870d-8dab874d8d77.lsf100%  
@@ -263,13 +263,13 @@ SECTION 2: COPY OPERATIONS
                Total    Copied   Skipped  Mismatch    FAILED    Extras
     Dirs :        17        17         1         0         0         0
    Files :        19        19         0         0         0         0
-   Bytes :    2.42 m    2.42 m         0         0         0         0
+   Bytes :    2.45 m    2.45 m         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           282064888 Bytes/sec.
-   Speed :           16139.882 MegaBytes/min.
-   Ended : Saturday, April 4, 2026 2:41:06 AM
+   Speed :           428547666 Bytes/sec.
+   Speed :           24521.694 MegaBytes/min.
+   Ended : Saturday, April 4, 2026 4:39:24 AM
 
  
 [DEBUG] Counting source files 
@@ -295,7 +295,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, April 4, 2026 2:41:08 AM
+  Started : Saturday, April 4, 2026 4:39:25 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
      Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Generated\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
 
@@ -305,8 +305,8 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		   2.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_AntlersFrills.GR2100%  
 	    New File  		  144716	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_CoralRFrills.GR2100%  
+	    New File  		   2.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_AntlersFrills.GR2100%  
 	    New File  		  150000	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\Jaw\DGB_EL_MRath_Jaw_Pearl_CoralRFrills.GR2100%  
 
 ------------------------------------------------------------------------------
@@ -320,7 +320,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           1234406000 Bytes/sec.
    Speed :            70633.277 MegaBytes/min.
-   Ended : Saturday, April 4, 2026 2:41:08 AM
+   Ended : Saturday, April 4, 2026 4:39:25 AM
 
  
 [DEBUG] Counting source files 

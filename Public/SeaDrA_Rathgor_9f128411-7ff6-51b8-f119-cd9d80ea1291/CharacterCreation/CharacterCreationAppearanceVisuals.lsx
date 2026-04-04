@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-    <version major="4" minor="7" revision="1" build="3"/>
+    <version major="4" minor="8" revision="0" build="500"/>
     <region id="CharacterCreationAppearanceVisuals">
         <node id="root">
             <children>
@@ -366,6 +366,369 @@
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="ae7829bb-c8bf-4baa-ae9d-26bb6d506a56"/>
                     <attribute id="VisualResource" type="guid" value="d10c415f-3576-daeb-7d59-0608382faf6a"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h36b36d7bg8aeag05dfg6c4fg33e689387b39" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="3205f0ac-47e0-4170-ac82-6c690763492e"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Pearl_Frills"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
+                    <attribute id="UUID" type="guid" value="a078d14c-e75a-4017-b46a-fc0d2ae34df7"/>
+                    <attribute id="VisualResource" type="guid" value="8cc66b61-490e-4f2e-8223-878aaa3ea166"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26cf7a9fg8eecgc963g491cgc8cfb5d6fef0" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="3205f0ac-47e0-4170-ac82-6c690763492e"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Pearl_DPlain"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                    <attribute id="UUID" type="guid" value="a6a06b75-9ad1-4c50-8413-94b28cfbad73"/>
+                    <attribute id="VisualResource" type="guid" value="a571b291-ad7d-48d7-9e69-df24ad08bb49"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6e4fa00dgcd3bg3c2bg1d3fg0880f52b6e05" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="3205f0ac-47e0-4170-ac82-6c690763492e"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Pearl_CPlain"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                    <attribute id="UUID" type="guid" value="fdf7f904-0d27-4b01-89f8-4404e6a3af23"/>
+                    <attribute id="VisualResource" type="guid" value="4e6884ea-d9b2-4ec0-a1c0-a815e4d8a7fb"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h39b236b6g0894gcf53g01cbgf43a8dc872f7" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="3205f0ac-47e0-4170-ac82-6c690763492e"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Pearl_GMAmber"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                    <attribute id="UUID" type="guid" value="d3a8c6e2-2078-4386-99c3-91dbeb21f281"/>
+                    <attribute id="VisualResource" type="guid" value="9735de56-72d6-4663-b4b9-79174f815959"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf8a471adg1527g90dcgc3bcgf4bb64ad8255" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="3205f0ac-47e0-4170-ac82-6c690763492e"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Pearl_GMBlue"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                    <attribute id="UUID" type="guid" value="ab8e8e76-c5d6-42e6-abf3-ce9e85000017"/>
+                    <attribute id="VisualResource" type="guid" value="7364c60d-6432-4ad2-bedf-5b65cd909e3b"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9c95126dgaeceg3d08g37cegfd2b2ff5033e" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="3205f0ac-47e0-4170-ac82-6c690763492e"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Pearl_GMCyanViolet"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                    <attribute id="UUID" type="guid" value="9489a04c-2fb3-4e49-81c7-ef1772b55357"/>
+                    <attribute id="VisualResource" type="guid" value="d64271a4-78ee-428c-9d72-c4f80403279e"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd3205669g4755g4834gb5ccg7d6db163659f" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="3205f0ac-47e0-4170-ac82-6c690763492e"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Pearl_GMGrassGreen"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                    <attribute id="UUID" type="guid" value="6d2eec4c-bf11-4075-95ef-d84d5ae7f0f9"/>
+                    <attribute id="VisualResource" type="guid" value="87c68fe5-5467-4b11-aa83-9a94f022cf35"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4ceb3d6fg699bgfb74ge3b2gee4f8677424a" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="3205f0ac-47e0-4170-ac82-6c690763492e"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Pearl_GMPink"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                    <attribute id="UUID" type="guid" value="e18c8723-bad5-4c7f-886c-a3100590b608"/>
+                    <attribute id="VisualResource" type="guid" value="c900c932-f5ec-444a-8e63-1549cde1240e"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6113bbbag88bcge5aagf7f6g5bf274f818f0" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="3205f0ac-47e0-4170-ac82-6c690763492e"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Pearl_GMPinkPeach"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                    <attribute id="UUID" type="guid" value="716472fa-ef8d-4ceb-a7bb-fa95965df728"/>
+                    <attribute id="VisualResource" type="guid" value="3751fcca-f207-4351-a909-810cb5352206"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9641abd9gbd03g3394g15f0g2be96fd8a04c" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="3205f0ac-47e0-4170-ac82-6c690763492e"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Pearl_GMViolet"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                    <attribute id="UUID" type="guid" value="11d763ea-018e-421a-b6c8-0a0502b23551"/>
+                    <attribute id="VisualResource" type="guid" value="48d85290-79a6-42c6-870d-8dab874d8d77"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6dce04dcg5150gc04cgb0f0gc1525e426029" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="3205f0ac-47e0-4170-ac82-6c690763492e"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Pearl_GMWhite"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                    <attribute id="UUID" type="guid" value="3a59b5d3-3253-47c9-a72b-a11e2c6f7d44"/>
+                    <attribute id="VisualResource" type="guid" value="0c183a24-9012-4539-848f-5d784f69de96"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9c7db87cga514gd808gaa36g68216d137340" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="5c5cc5ac-b2e0-43de-9abb-4fda858280a8"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Pearl_Frills"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
+                    <attribute id="UUID" type="guid" value="b5a3b7f4-423c-4888-b3b0-f686672c5d37"/>
+                    <attribute id="VisualResource" type="guid" value="8cc66b61-490e-4f2e-8223-878aaa3ea166"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h3de061e9ga567g8ec9g5d8fg5843290ee08a" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="5c5cc5ac-b2e0-43de-9abb-4fda858280a8"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Pearl_DPlain"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                    <attribute id="UUID" type="guid" value="27aae399-f27f-4b82-ab1d-4fc9252b8f2c"/>
+                    <attribute id="VisualResource" type="guid" value="a571b291-ad7d-48d7-9e69-df24ad08bb49"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4506e602ge799gc5ebg4e85gbb45a51b1b23" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="5c5cc5ac-b2e0-43de-9abb-4fda858280a8"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Pearl_CPlain"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                    <attribute id="UUID" type="guid" value="babb2fc8-9773-4453-a1e1-bdaf8c85adc4"/>
+                    <attribute id="VisualResource" type="guid" value="4e6884ea-d9b2-4ec0-a1c0-a815e4d8a7fb"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h2c8072edg7000gcb52g4f75g3e5ad12922b6" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="5c5cc5ac-b2e0-43de-9abb-4fda858280a8"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Pearl_GMAmber"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                    <attribute id="UUID" type="guid" value="ce6512ea-1278-4475-94b7-a3f1e6016134"/>
+                    <attribute id="VisualResource" type="guid" value="9735de56-72d6-4663-b4b9-79174f815959"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h862ce878g9b67g64cfgc197g33273f088041" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="5c5cc5ac-b2e0-43de-9abb-4fda858280a8"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Pearl_GMBlue"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                    <attribute id="UUID" type="guid" value="ce609e21-524a-4766-a9cc-20d41cf751a8"/>
+                    <attribute id="VisualResource" type="guid" value="7364c60d-6432-4ad2-bedf-5b65cd909e3b"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hfa9eccbdgb8dfgd233g4363g5780cf97c915" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="5c5cc5ac-b2e0-43de-9abb-4fda858280a8"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Pearl_GMCyanViolet"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                    <attribute id="UUID" type="guid" value="3d2c7bf5-6239-4e4d-b40b-165f93c6d2d1"/>
+                    <attribute id="VisualResource" type="guid" value="d64271a4-78ee-428c-9d72-c4f80403279e"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hdfe35b5fgbdaag9c6fgff3fg3a2833bc3ad4" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="5c5cc5ac-b2e0-43de-9abb-4fda858280a8"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Pearl_GMGrassGreen"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                    <attribute id="UUID" type="guid" value="11b7493d-0dcf-4c21-930d-93d4ea7cd448"/>
+                    <attribute id="VisualResource" type="guid" value="87c68fe5-5467-4b11-aa83-9a94f022cf35"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7a498bcag2973g0034g0b05gca029a055810" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="5c5cc5ac-b2e0-43de-9abb-4fda858280a8"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Pearl_GMPink"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                    <attribute id="UUID" type="guid" value="ffc5a714-74b5-46a1-a53a-f339fbc2ce7a"/>
+                    <attribute id="VisualResource" type="guid" value="c900c932-f5ec-444a-8e63-1549cde1240e"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc2ccbdb5gbae5ge64dg3ec0gafae80609aa3" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="5c5cc5ac-b2e0-43de-9abb-4fda858280a8"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Pearl_GMPinkPeach"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                    <attribute id="UUID" type="guid" value="49d1c80c-7ca1-4ccc-98be-13e57e337369"/>
+                    <attribute id="VisualResource" type="guid" value="3751fcca-f207-4351-a909-810cb5352206"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h488a6475gc5cfg93aeg9079gccd539f44eb8" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="5c5cc5ac-b2e0-43de-9abb-4fda858280a8"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Pearl_GMViolet"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                    <attribute id="UUID" type="guid" value="12eb19ee-f64b-49d8-8a8a-d7d2219eeecd"/>
+                    <attribute id="VisualResource" type="guid" value="48d85290-79a6-42c6-870d-8dab874d8d77"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf6de396fg8074g8c58g3af5g2da82686e0b0" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="5c5cc5ac-b2e0-43de-9abb-4fda858280a8"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Pearl_GMWhite"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                    <attribute id="UUID" type="guid" value="325cf6f6-49af-4008-a45b-fd485d024fb0"/>
+                    <attribute id="VisualResource" type="guid" value="0c183a24-9012-4539-848f-5d784f69de96"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9e77ae0bg3269g5728g85a0g24569ac4ca08" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="a07174dc-f0a1-4d10-9ad4-0481901711e5"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Pearl_Frills"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
+                    <attribute id="UUID" type="guid" value="0e4b36a0-dc21-43ae-9ce6-56b6c26f2528"/>
+                    <attribute id="VisualResource" type="guid" value="8cc66b61-490e-4f2e-8223-878aaa3ea166"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h09933e77g8d65g0224gc680g8f6f1da46a81" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="a07174dc-f0a1-4d10-9ad4-0481901711e5"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Pearl_DPlain"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                    <attribute id="UUID" type="guid" value="f12b4eab-121b-46de-be9f-f0d793f7404d"/>
+                    <attribute id="VisualResource" type="guid" value="a571b291-ad7d-48d7-9e69-df24ad08bb49"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h2ffe6539gf011g5208g32e1g24bb76dbe3db" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="a07174dc-f0a1-4d10-9ad4-0481901711e5"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Pearl_CPlain"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                    <attribute id="UUID" type="guid" value="8aeb7caa-3751-4c22-ac35-11a54f481530"/>
+                    <attribute id="VisualResource" type="guid" value="4e6884ea-d9b2-4ec0-a1c0-a815e4d8a7fb"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7a02bcc8ge510g59bfged41g43d3eb656567" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="a07174dc-f0a1-4d10-9ad4-0481901711e5"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Pearl_GMAmber"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                    <attribute id="UUID" type="guid" value="eeb3d522-dedc-40d6-901c-b3cb4ecd8d27"/>
+                    <attribute id="VisualResource" type="guid" value="9735de56-72d6-4663-b4b9-79174f815959"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h67cbddceg5eddg5afag2955gf14e50ce18bb" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="a07174dc-f0a1-4d10-9ad4-0481901711e5"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Pearl_GMBlue"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                    <attribute id="UUID" type="guid" value="eecb5e94-c292-4bae-bed1-f16e772fee57"/>
+                    <attribute id="VisualResource" type="guid" value="7364c60d-6432-4ad2-bedf-5b65cd909e3b"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h62c696a2ga11bge81bg0c67gbbf36769d2e9" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="a07174dc-f0a1-4d10-9ad4-0481901711e5"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Pearl_GMCyanViolet"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                    <attribute id="UUID" type="guid" value="465de3c9-9145-44cd-8ef3-4f2a6468daaf"/>
+                    <attribute id="VisualResource" type="guid" value="d64271a4-78ee-428c-9d72-c4f80403279e"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd813f6adgd2dfg885fg5598gff8d5eb83e5b" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="a07174dc-f0a1-4d10-9ad4-0481901711e5"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Pearl_GMGrassGreen"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                    <attribute id="UUID" type="guid" value="a11c3e9a-dfde-4804-80f1-56fb222acd67"/>
+                    <attribute id="VisualResource" type="guid" value="87c68fe5-5467-4b11-aa83-9a94f022cf35"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hfca1b11cg526dge4a9ge4e5g6dc1783fa523" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="a07174dc-f0a1-4d10-9ad4-0481901711e5"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Pearl_GMPink"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                    <attribute id="UUID" type="guid" value="e7b22cdb-e1bd-458b-8f42-dc72347403a0"/>
+                    <attribute id="VisualResource" type="guid" value="c900c932-f5ec-444a-8e63-1549cde1240e"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h78683276gaac8g3ba7ge200g339f216d4af7" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="a07174dc-f0a1-4d10-9ad4-0481901711e5"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Pearl_GMPinkPeach"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                    <attribute id="UUID" type="guid" value="ecdf5036-6c39-4dbd-a343-205a43f9b1cc"/>
+                    <attribute id="VisualResource" type="guid" value="3751fcca-f207-4351-a909-810cb5352206"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h26da59d0g1606g2bf1g1020g4b0b6adea701" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="a07174dc-f0a1-4d10-9ad4-0481901711e5"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Pearl_GMViolet"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                    <attribute id="UUID" type="guid" value="07a01c41-d03b-476b-af09-f72ba8863c31"/>
+                    <attribute id="VisualResource" type="guid" value="48d85290-79a6-42c6-870d-8dab874d8d77"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h16d5c586g6cb6g0a75g4515g5587bebb5c53" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="a07174dc-f0a1-4d10-9ad4-0481901711e5"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Pearl_GMWhite"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                    <attribute id="UUID" type="guid" value="fe1c11da-c719-44ff-ac73-8717ded358f7"/>
+                    <attribute id="VisualResource" type="guid" value="0c183a24-9012-4539-848f-5d784f69de96"/>
                 </node>
             </children>
         </node>
