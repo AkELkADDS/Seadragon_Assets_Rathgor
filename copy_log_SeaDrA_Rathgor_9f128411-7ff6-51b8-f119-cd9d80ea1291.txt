@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 
-   Sat 04/04/2026  4:39:14.86 
+   Sat 04/04/2026  4:41:23.88 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -81,7 +81,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, April 4, 2026 4:39:18 AM
+  Started : Saturday, April 4, 2026 4:41:29 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
      Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Projects\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
 
@@ -101,11 +101,7 @@ SECTION 2: COPY OPERATIONS
    Files :         2         2         0         0         0         0
    Bytes :   962.0 k   962.0 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-
-
-   Speed :           985129000 Bytes/sec.
-   Speed :           56369.533 MegaBytes/min.
-   Ended : Saturday, April 4, 2026 4:39:18 AM
+   Ended : Saturday, April 4, 2026 4:41:29 AM
 
  
 [DEBUG] Counting source files 
@@ -131,7 +127,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, April 4, 2026 4:39:20 AM
+  Started : Saturday, April 4, 2026 4:41:31 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
      Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Editor\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
 
@@ -150,7 +146,7 @@ SECTION 2: COPY OPERATIONS
    Files :         1         1         0         0         0         0
    Bytes :    89.9 k    89.9 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Saturday, April 4, 2026 4:39:20 AM
+   Ended : Saturday, April 4, 2026 4:41:31 AM
 
  
 [DEBUG] Counting source files 
@@ -176,7 +172,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, April 4, 2026 4:39:22 AM
+  Started : Saturday, April 4, 2026 4:41:32 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
      Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
 
@@ -202,7 +198,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           1000849000 Bytes/sec.
    Speed :            57269.039 MegaBytes/min.
-   Ended : Saturday, April 4, 2026 4:39:22 AM
+   Ended : Saturday, April 4, 2026 4:41:32 AM
 
  
 [DEBUG] Counting source files 
@@ -228,7 +224,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, April 4, 2026 4:39:24 AM
+  Started : Saturday, April 4, 2026 4:41:34 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
      Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
 
@@ -269,7 +265,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           428547666 Bytes/sec.
    Speed :           24521.694 MegaBytes/min.
-   Ended : Saturday, April 4, 2026 4:39:24 AM
+   Ended : Saturday, April 4, 2026 4:41:34 AM
 
  
 [DEBUG] Counting source files 
@@ -295,7 +291,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, April 4, 2026 4:39:25 AM
+  Started : Saturday, April 4, 2026 4:41:36 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
      Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Generated\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
 
@@ -305,8 +301,8 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		  144716	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_CoralRFrills.GR2100%  
 	    New File  		   2.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Crests\DGB_M_NKD_Head_Krothar_Top_AntlersFrills.GR2100%  
+	    New File  		  144716	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Krothar\Jaw\DGB_M_NKD_Head_Krothar_Jaw_CoralRFrills.GR2100%  
 	    New File  		  150000	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\Jaw\DGB_EL_MRath_Jaw_Pearl_CoralRFrills.GR2100%  
 
 ------------------------------------------------------------------------------
@@ -320,7 +316,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           1234406000 Bytes/sec.
    Speed :            70633.277 MegaBytes/min.
-   Ended : Saturday, April 4, 2026 4:39:25 AM
+   Ended : Saturday, April 4, 2026 4:41:36 AM
 
  
 [DEBUG] Counting source files 
