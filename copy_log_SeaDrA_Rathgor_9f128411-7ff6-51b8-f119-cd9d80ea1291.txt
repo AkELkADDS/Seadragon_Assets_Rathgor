@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291 
-   Sat 04/04/2026  4:41:23.88 
+   Sun 04/05/2026  4:02:09.33 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -81,7 +81,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, April 4, 2026 4:41:29 AM
+  Started : Sunday, April 5, 2026 4:02:13 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
      Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Projects\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
 
@@ -92,7 +92,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     692	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\meta.lsx100%  
-	    New File  		  984437	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\thumbnail.png100%  
+	    New File  		  984437	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\thumbnail.png  0%  100%  
 
 ------------------------------------------------------------------------------
 
@@ -101,7 +101,11 @@ SECTION 2: COPY OPERATIONS
    Files :         2         2         0         0         0         0
    Bytes :   962.0 k   962.0 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Saturday, April 4, 2026 4:41:29 AM
+
+
+   Speed :           492564500 Bytes/sec.
+   Speed :           28184.766 MegaBytes/min.
+   Ended : Sunday, April 5, 2026 4:02:13 AM
 
  
 [DEBUG] Counting source files 
@@ -127,7 +131,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, April 4, 2026 4:41:31 AM
+  Started : Sunday, April 5, 2026 4:02:14 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
      Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Editor\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
 
@@ -146,7 +150,7 @@ SECTION 2: COPY OPERATIONS
    Files :         1         1         0         0         0         0
    Bytes :    89.9 k    89.9 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Saturday, April 4, 2026 4:41:31 AM
+   Ended : Sunday, April 5, 2026 4:02:14 AM
 
  
 [DEBUG] Counting source files 
@@ -172,7 +176,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, April 4, 2026 4:41:32 AM
+  Started : Sunday, April 5, 2026 4:02:16 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
      Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
 
@@ -183,7 +187,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		    7846	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\meta.lsx100%  
-	    New File  		  984437	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\mod_publish_logo.png 53%  100%  
+	    New File  		  984437	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\mod_publish_logo.png100%  
 	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\GUI\metadata.lsf100%  
 	    New File  		    7425	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Localization\English\english.xml100%  
 
@@ -196,9 +200,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           1000849000 Bytes/sec.
-   Speed :            57269.039 MegaBytes/min.
-   Ended : Saturday, April 4, 2026 4:41:32 AM
+   Speed :           142978428 Bytes/sec.
+   Speed :            8181.291 MegaBytes/min.
+   Ended : Sunday, April 5, 2026 4:02:16 AM
 
  
 [DEBUG] Counting source files 
@@ -224,7 +228,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, April 4, 2026 4:41:34 AM
+  Started : Sunday, April 5, 2026 4:02:18 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
      Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
 
@@ -263,9 +267,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           428547666 Bytes/sec.
-   Speed :           24521.694 MegaBytes/min.
-   Ended : Saturday, April 4, 2026 4:41:34 AM
+   Speed :           367326571 Bytes/sec.
+   Speed :           21018.595 MegaBytes/min.
+   Ended : Sunday, April 5, 2026 4:02:18 AM
 
  
 [DEBUG] Counting source files 
@@ -291,7 +295,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, April 4, 2026 4:41:36 AM
+  Started : Sunday, April 5, 2026 4:02:20 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
      Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\Generated\Public\SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291\
 
@@ -314,9 +318,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           1234406000 Bytes/sec.
-   Speed :            70633.277 MegaBytes/min.
-   Ended : Saturday, April 4, 2026 4:41:36 AM
+   Speed :           822937333 Bytes/sec.
+   Speed :           47088.851 MegaBytes/min.
+   Ended : Sunday, April 5, 2026 4:02:20 AM
 
  
 [DEBUG] Counting source files 
